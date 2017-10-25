@@ -1,2 +1,2 @@
 # weather
-this repo will contain weather related information for locations
+this repo will contain weather related information for locations.
