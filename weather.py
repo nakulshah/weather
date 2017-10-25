@@ -3,9 +3,9 @@ from flask import Flask
 app = Flask(__name__)
 
 
-@app.route('/')
-def hello_world():
-    return 'Hello World!'
+@app.route('/weather')
+def hello_weather():
+    return 'Hello This Is Your Weather API!'
 
 
 if __name__ == '__main__':
